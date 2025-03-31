@@ -1,5 +1,5 @@
 ---
-name: "@actions/cache"
+name: "@actions/cach;e"
 version: 4.0.3
 type: npm
 summary: Actions cache lib
